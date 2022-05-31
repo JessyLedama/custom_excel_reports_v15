@@ -1,14 +1,12 @@
 # -*- coding: utf-8 -*-
-# Part of Aktiv Software
+# Part of SIMI Technologies
 # See LICENSE file for full copyright & licensing details.
-# Author: Aktiv Software PVT. LTD.
-# mail:   odoo@aktivsoftware.com
-# Copyright (C) 2015-Present Aktiv Software PVT. LTD.
+# Author: SIMI Technologies
+# mail:   solutions@simitechnologies.co.ke
+# Copyright (C) 2019-Present SIMI Technologies
 # Contributions:
-#           Aktiv Software:
-#              - Kinjal Lalani
-#              - Surabh Yadav
-#              - Tanvi Gajera
+#           SIMI Technologies:
+#              - Jessy Ledama
 
 {
     'name': "Custom Excel Reports",
@@ -18,7 +16,7 @@
     'description': """This module will print excel report of sale.""",
     'license': 'AGPL-3',
     'category': 'Reports',
-    'version': '14.0.1.0.0',
+    'version': '15.0.1.0.0',
     'depends': [
         'sale_management', 'report_xlsx', 'account'
     ],
@@ -30,5 +28,5 @@
     ],
     'auto_install': False,
     'installable': True,
-    'application': False,
+    'application': True,
 }

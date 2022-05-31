@@ -1,13 +1,13 @@
-Open ERP System :- Odoo 14 
+Odoo 15 Custom Excel Reports
 
 Installation
 ============
-Install the Application => Apps -> Sale Order Excel Report(Technical Name:ak_sale_order_excel_report)
+Install the Application => Apps -> Custom Excel Reports V15(Technical Name:custom_excel_reports_v15)
 
 
 Usage
 =====
-With Sale Order Excel Report you can print Excle report of sale order/ quotation
+With Invoice & Bills Excel Report you can print Excel report of invoices/ bills
 
 
 
